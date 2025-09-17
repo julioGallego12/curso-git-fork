@@ -60,6 +60,11 @@ const loadAdds = () => {
 
 const affiliateRedirect = () => {
   // resolver el bug
+
+}
+
+const emptyFunc = () => {
+  console.log(' Just to Change ');
 }
 
 // test commit
