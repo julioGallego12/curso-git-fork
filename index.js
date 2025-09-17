@@ -67,6 +67,10 @@ const emptyFunc = () => {
   console.log(' Just to Change ');
 }
 
+const emptyFunc = () => {
+  console.log('Commit de prueba Branch2');
+}
+
 // test commit
 
 // cambio 1
